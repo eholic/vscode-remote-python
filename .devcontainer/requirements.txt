@@ -1,0 +1,8 @@
+# dev requirements
+poetry
+ipython
+ipykernel
+isort
+matplotlib
+pytest
+pytest-cov
